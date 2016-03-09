@@ -1,0 +1,19 @@
+{
+  "name": "peer",
+  "version": "0.0.0",
+  "dependencies": {
+    "eventemitter3": "~1.1.1",
+    "socket.io-1.4.5": "https://cdn.socket.io/socket.io-1.4.5.js",
+    "lodash": "~4.5.0",
+    "d3": "~3.5.16",
+    "node-uuid": "~1.4.7"
+  },
+  "main":"./screen-peer.min.js",
+  "resolutions": {
+    "angular": "~1.4.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/geometrybase/screen-peer.git"
+  }
+}
